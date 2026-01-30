@@ -1,0 +1,21 @@
+{
+    "name": "tw-moezzat",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "@salla.sa/twilight-bundles": "^0.1.0",
+        "vite": "^5.0.0"
+    },
+    "author": "mohamedezzatmohamedali@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mohamedezzatmohamedali-prog/tw-moezzat"
+    },
+    "private": true
+}
